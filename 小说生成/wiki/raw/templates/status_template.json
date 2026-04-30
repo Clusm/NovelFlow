@@ -1,0 +1,19 @@
+{
+  "projectName": "",
+  "status": "planning",
+  "createdAt": "",
+  "updatedAt": "",
+  "completedAt": null,
+  "targetChapters": null,
+  "targetWords": null,
+  "currentChapters": 0,
+  "currentWords": 0,
+  "completionCriteria": {
+    "allArcsFinished": false,
+    "allForeshadowingResolved": false,
+    "hasEndingChapter": false,
+    "userDeclared": false
+  },
+  "abandonReason": null,
+  "history": []
+}

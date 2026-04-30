@@ -1,0 +1,11 @@
+# Project 文件夹 (用户要求忽略)
+Project/
+
+# 压缩包
+*.zip
+
+# 二进制/Office 文件
+*.docx
+
+# Windows Zone.Identifier (ADS 标记文件)
+*Zone.Identifier
